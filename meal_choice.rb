@@ -1,4 +1,4 @@
 def meal_choice
-  name = meat
-  puts meat
+  meal = meat
+  meal
 end
