@@ -1,5 +1,4 @@
-def meal_choice = (choice)
-  meal = meat, vegan
-  Choice
 
+def meal_choice (meal = "meat")
+  meal
 end
